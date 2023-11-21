@@ -18,7 +18,7 @@ def get_l3tt3r (msg:str)->str:
     return output
 
 case1=get_l3tt3r(msg="Hello World")
-print(case1)
+print(f"SL: {case1}")
 
 # HL quiz 017
 def get_l3tt3r (msg:str)->str:
@@ -29,7 +29,7 @@ def get_l3tt3r (msg:str)->str:
     return output
 
 case1=get_l3tt3r(msg="Hello World")
-print(case1)
+print(f"HL: {case1}")
 
 
 
