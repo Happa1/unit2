@@ -1,12 +1,16 @@
 # Quiz num
 
-## Python code
+**Fig.1:** prompt of quiz num
+
+## 1. flow of chart
+
+**Fig.2:** algorithm flow chart of quiz num
+
+## 2. solution
 ```.py
 
 ```
 
-## Evidence
+## 3. Proof of work
 
-![](/Assets/quizNUMevidence.png)
-
-**Fig.1:** Evidence for quiz num
+**Fig.3:** Evidence for quiz num

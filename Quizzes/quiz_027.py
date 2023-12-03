@@ -1,3 +1,4 @@
+# Quiz 027
 def count_letters (my_dict:dict, msg:str) -> dict:
     for letter in msg:
         if letter in my_dict:
