@@ -36,6 +36,6 @@ case1=get_l3tt3r(msg="Hello World")
 print(case1)
 ```
 
-![](/Assets/quiz017evidence.png)
+![](/Assets/evidence/quiz017evidence.png)
 
 **Fig.1: ** Evidence for Quiz 17

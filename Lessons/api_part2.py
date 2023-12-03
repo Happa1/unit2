@@ -14,6 +14,7 @@ ip = "192.168.6.153"
 answer = requests.post(f'http://{ip}/login', json=user)
 # print(answer.json())
 cookie = answer.json()["access_token"]
+print(cookie)
 
 
 # create a sensor

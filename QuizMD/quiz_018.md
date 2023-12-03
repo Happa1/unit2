@@ -26,6 +26,6 @@ print(table)
 
 ## Evidence
 
-![](/Assets/quiz018evidence.png)
+![](/Assets/evidence/quiz018evidence.png)
 
 **Fig.1:** Evidence for quiz 18
