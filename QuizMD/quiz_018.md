@@ -1,6 +1,14 @@
-# Quiz 18
+# Quiz018
+![2023  Quizzes (4)](https://github.com/Happa1/unit1-2024/assets/142579414/845ba1bc-b090-4c67-b3f3-cae687400114)
 
-## Python code
+Fig. 1 prompt of quiz 018
+
+## 1.flow of chart
+![Computer Science quiz (9)](https://github.com/Happa1/unit1-2024/assets/142579414/81332907-9616-4646-b10a-25baedb4ea09)
+
+Fig. 2 algorithm flow chart of quiz 018
+
+## 2.solution
 ```.py
 def get_truth():
     a=1
@@ -24,8 +32,12 @@ table=get_truth()
 print(table)
 ```
 
-## Evidence
+## 3.proof of work
+<img width="246" alt="Screenshot 2023-11-16 at 20 49 54" src="https://github.com/Happa1/unit1-2024/assets/142579414/0a61e921-6896-449d-a167-813e53bb5ce4">
 
-![](/Assets/evidence/quiz018evidence.png)
+Fig. 3 test of quiz 018
 
-**Fig.1:** Evidence for quiz 18
+## truth table
+![IMG_0172](https://github.com/Happa1/unit1-2024/assets/142579414/ed422f43-0b08-4189-85e8-1fe4c66376d2)
+
+Fig. 4 truth table of quiz 018
